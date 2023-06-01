@@ -23,8 +23,6 @@ Layer information will be copied along with the effects if they are located in a
 
 Multi select of effects can be done by holding down the CTRL key while selecting the effects you want. You can select multiples in a range on the same row by clicking the first one to elect it and then SHIFT click one further before or after it in the row. All effects in between will be selected. You can click on the element name in the row and this will select the entire row. It will be outlined in blue and all effects will show selected.
 
-Clicking the timeline and dragging the mouse with the left mouse button held will create a rectangular selection lasso that will select all effects inside or touching the lasso. You can also utilize the drag box filter by clicking the drag box icon in the toolbar to choose which effects the drag box will select. This will filter the selections to only those effects matching your criteria.
-
 Additional capabilites for selection are provide by the Draw Mode. See the section on [Draw Modes]({{< ref draw-mode.md>}}) for further details.
 
 ### Editing Effects
@@ -37,7 +35,7 @@ Effects can also be dragged from one element to another by clicking on them and 
 
 ### Effect Replacement
 
-There are times when you want to replace one or more effects with an effect of a different type. This can be tedius when you have to delete them and create new. On top of that you likely want them to occupy the same time slot and duration of the original effect. Fortunatly there is an easy way to accomplish this.
+There are times when you want to replace one or more effects with an effect of a different type. This can be tedius when you have to delete them and create new. On top of that you likely want them to occupy the same time slot and duration of the original effect. Fortunately there is an easy way to accomplish this.
 
 Existing effects can be replaced with another effect type directly in the editor. Select the effects you want to replace with a different effect. Hold down the Control key and drag the new effect you want anywhere on the timeline. You will be prompted to confirm you want to replace the selected effects with the new effect. Once you agree, all the selected effects will now be replaced with the new effect set to it's default. All of the effects will still be selected and you can edit them all at once.
 
